@@ -292,10 +292,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Já funciona direto no Android Auto sem problemas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/morphe.software/)
 
-### 🌟 [**Revera (Antigo MySpoti)**](https://revera.caruno.wtf/carunodev/Revera)
+### 🌟 [**MySpoti**](https://github.com/kota-zo/myspoti)
 
 - Client de código aberto para o Spotify no Android - bloqueia anúncios e libera funções premium.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/revera.caruno.wtf/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
