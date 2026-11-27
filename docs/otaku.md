@@ -239,6 +239,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - O flor de cerejeira reúne grupos brasileiros e portugueses de scansubs com o propósito de preservar mangás e outras obras asiáticas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sakuramangas.org/)
 
+  #### 🌸 [Kuro Mangás](https://kuromangas.com)
+
+- Site para ler sem anúncios preservando obras, com muito conteúdo, ainda pra ser adicionado
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kuromangas.com/)
+
 #### 🌸 [Gdrive do Apollo D. Yagami](https://drive.google.com/drive/folders/18oeYtjfbRipkgSVeIkNx66FGl03na5LR)
 
 - Drive do Google contendo traduções de mangás. Com ainda mais conteúdo a ser adicionado no futuro.
